@@ -3,14 +3,14 @@ import React from 'react'
 const MenuItem = ({id, imgUrl ,name ,bread , ingredients}) => {
   return (
 
-    <div className='py-5' > 
-        <img className='max-w-[50vh] mx-auto rounded-xl' src={imgUrl} alt="" />
+    <div className='py-5 flex flex-col' > 
+        <img className='max-w-[50vh] rounded-xl' src={imgUrl} alt="" />
         <div className='' >
-            <h3 className='' >
+            <h2 className='text-xl font-bold' >
                 {name}
-            </h3>
-            <h3>{bread}</h3>
-            <h4>{ingredients}</h4>
+            </h2>
+            <h2 className='text-sm' >{bread}</h2>
+            <h2>{ingredients}</h2>
         </div>
     </div>
   )
