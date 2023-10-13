@@ -17,3 +17,7 @@
 ***In the items.json file, the path to the image must be from the public folder or sub folder of public***
 - "imgUrl": "/imgs/special.jpg"
 - dataArray[index].imgUrl
+
+## Todo
+- get carousel working with multiple items using components
+- style component based on feedback maybe whiteboard
