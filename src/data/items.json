@@ -2,9 +2,79 @@
     {
       "id": 0,
       "imgUrl": "/imgs/special.jpg",
+      "name": "Special",
+      "bread": "Toasted Ciabatta",
+      "ingredients": "BBQ Shredded Beef | Cheddar Cheese | Apple Jalapeno Slaw | French's Crispy Fried Onions"
+    },
+    {
+      "id": 1,
+      "imgUrl": "/imgs/special.jpg",
       "name": "House Tenders",
-      "bread": "Brioche Bun",
-      "ingredients": "Fried Tenders in Nashville Spice Lettuce | Pickles"
+      "bread": "No Bun",
+      "ingredients": "4 Fried Tenders | Side | Two Sauces"
+    },
+    {
+      "id": 2,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "Ramsey Hot Chicken Sandwich",
+      "bread": "Toasted Brioche Bun",
+      "ingredients": "3 Fried Tenders in Nashville Spice | Lettuce | Pickles"
+    },
+    {
+      "id": 3,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "Chicken Philly",
+      "bread": "Toasted Hoagie",
+      "ingredients": "Grilled Chicken Tenders | Provolone | Peppers & Onions | Herb Garlic Aioli"
+    },
+    {
+      "id": 4,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "Ramsey Burger",
+      "bread": "Toasted Brioche Bun",
+      "ingredients": "Double Burger | Street Sauce | Caramelized Onions | Bacon | Cheese"
+    },
+    {
+      "id": 5,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "Lamb Gyro",
+      "bread": "Toasted Pita",
+      "ingredients": "Beef and Lamb | Onions | Tomato Relish | Lettuce | Tzatziki Sauce"
+    },
+    {
+      "id": 6,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "Southern Grilled Cheese",
+      "bread": "Toasted Sourdough Bread Slice",
+      "ingredients": "Mac & Cheese | Bacon Jam"
+    },
+    {
+      "id": 7,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "Grilled Tilapia",
+      "bread": "No Bun",
+      "ingredients": "Caribbean Spiced Jalapeno Mango Salsa | Cilantro & Lime"
+    },
+    {
+      "id": 8,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "Chili Lime Beef Torta",
+      "bread": "Toasted Ciabatta",
+      "ingredients": "Churrasco Beef | Queso Fresco | Pickled Red Onion & Jalapeno | Chipotle Aioli | Guacamole"
+    },
+    {
+      "id": 9,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "California Chicken Club",
+      "bread": "Toasted Ciabatta",
+      "ingredients": "Grilled Chicken Breast | Guacamole | Bacon | Provolone Cheese | Lettuce | Tomato"
+    },
+    {
+      "id": 10,
+      "imgUrl": "/imgs/special.jpg",
+      "name": "Sides",
+      "bread": "No Bun",
+      "ingredients": "Fries | Sweet Potato Fries | Tater Tots | Onion Rings"
     }
     
 ]
