@@ -19,3 +19,4 @@
 - dataArray[index].imgUrl
 
 ### I used .map(() => (dataArray.key)) to render buttons href and id for items and decided to not do a carousel
+🐾

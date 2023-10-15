@@ -4,77 +4,77 @@
       "imgUrl": "/imgs/special.jpg",
       "name": "Special",
       "bread": "Toasted Ciabatta",
-      "ingredients": "BBQ Shredded Beef | Cheddar Cheese | Apple Jalapeno Slaw | French's Crispy Fried Onions"
+      "ingredients": "🥩BBQ Shredded Beef | 🧀Cheddar Cheese | 🍎Apple Jalapeno Slaw | 🧅French's Crispy Fried Onions"
     },
     {
       "id": "tenders",
       "imgUrl": "/imgs/special.jpg",
       "name": "House Tenders",
       "bread": "No Bun",
-      "ingredients": "4 Fried Tenders | Side | Two Sauces"
+      "ingredients": "🍗4 Fried Tenders | 🍟or🥗Side | 🍾Two Sauces"
     },
     {
       "id": "ramsey_hot_chicken_sandwich",
       "imgUrl": "/imgs/special.jpg",
       "name": "Ramsey Hot Chicken Sandwich",
       "bread": "Toasted Brioche Bun",
-      "ingredients": "3 Fried Tenders in Nashville Spice | Lettuce | Pickles"
+      "ingredients": "🍗3 Fried Tenders in Nashville Spice | 🥬Lettuce | 🥒Pickles"
     },
     {
       "id": "philly",
       "imgUrl": "/imgs/special.jpg",
       "name": "Chicken Philly",
       "bread": "Toasted Hoagie",
-      "ingredients": "Grilled Chicken Tenders | Provolone | Peppers & Onions | Herb Garlic Aioli"
+      "ingredients": "🍗Grilled Chicken Tenders | 🧀Provolone | 🫑Peppers & 🧅Onions | 🧄Herb Garlic Aioli"
     },
     {
       "id": "ramsey_burger",
       "imgUrl": "/imgs/special.jpg",
       "name": "Ramsey Burger",
       "bread": "Toasted Brioche Bun",
-      "ingredients": "Double Burger | Street Sauce | Caramelized Onions | Bacon | Cheese"
+      "ingredients": "🍔Double Burger | 🍾Street Sauce | 🧅Caramelized Onions | 🥓Bacon | 🧀Cheese"
     },
     {
       "id": "gyro",
       "imgUrl": "/imgs/special.jpg",
       "name": "Lamb Gyro",
       "bread": "Toasted Pita",
-      "ingredients": "Beef and Lamb | Onions | Tomato Relish | Lettuce | Tzatziki Sauce"
+      "ingredients": "🥩Beef and 🐑Lamb | 🧅Onions | 🍅Tomato Relish | 🥬Lettuce | 🥒Tzatziki Sauce"
     },
     {
       "id": "southern_grilled_cheese",
       "imgUrl": "/imgs/special.jpg",
       "name": "Southern Grilled Cheese",
       "bread": "Toasted Sourdough Bread Slice",
-      "ingredients": "Mac & Cheese | Bacon Jam"
+      "ingredients": "🧀Mac & Cheese | 🥓Bacon Jam"
     },
     {
       "id": "tilapia",
       "imgUrl": "/imgs/special.jpg",
       "name": "Grilled Tilapia",
       "bread": "No Bun",
-      "ingredients": "Caribbean Spiced Jalapeno Mango Salsa | Cilantro & Lime"
+      "ingredients": "🌶️Caribbean Spiced Jalapeno Mango Salsa | 🌿Cilantro & 🍋Lime"
     },
     {
       "id": "torta",
       "imgUrl": "/imgs/special.jpg",
       "name": "Chili Lime Beef Torta",
       "bread": "Toasted Ciabatta",
-      "ingredients": "Churrasco Beef | Queso Fresco | Pickled Red Onion & Jalapeno | Chipotle Aioli | Guacamole"
+      "ingredients": "🥩Churrasco Beef | 🧀Queso Fresco | 🧅Pickled Red Onion & Jalapeno | 🌶️Chipotle Aioli | 🥑Guacamole"
     },
     {
       "id": "cali",
       "imgUrl": "/imgs/special.jpg",
       "name": "California Chicken Club",
       "bread": "Toasted Ciabatta",
-      "ingredients": "Grilled Chicken Breast | Guacamole | Bacon | Provolone Cheese | Lettuce | Tomato"
+      "ingredients": "🐔Grilled Chicken Breast | 🥑Guacamole | 🥓Bacon | 🧀Provolone Cheese | 🥬Lettuce | 🍅Tomato"
     },
     {
       "id": "sides",
       "imgUrl": "/imgs/special.jpg",
       "name": "Sides",
       "bread": "No Bun",
-      "ingredients": "Fries | Sweet Potato Fries | Tater Tots | Onion Rings"
+      "ingredients": "🍟Fries | 🍟Sweet Potato Fries | 🥔Tater Tots | 🧅Onion Rings"
     }
     
 ]

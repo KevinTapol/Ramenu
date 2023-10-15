@@ -14,13 +14,9 @@ const Navbar = () => {
     <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Ramsey Menu</h1>
 
     {/* hamburger menu useState logic for open close */}
-    {/* <div onClick={handleNav} className='flex flex-end'>
-        {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
-    </div> */}
     <div onClick={handleNav} className='flex flex-end text-[#00df9a]' style={{ position: 'fixed', top: 9, right: 9, zIndex: 999,}} >
-        {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
+        {nav ? <AiOutlineClose size={30} /> : <AiOutlineMenu size={30} />}
     </div>
-
 
     <div className={nav ? 'fixed left-0 top-0 w-[80%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500' : 'fixed left-[-100%]'} style={{ zIndex: 999 }}>
         <h1 className='w-full text-3xl font-bold text-[#00df9a] m-4'>Sandwich Menu</h1>
