@@ -3,6 +3,7 @@ import { FaTwitter, FaAngellist, FaLinkedinIn, FaGithub } from 'react-icons/fa'
 
 const Links = () => {
   return (
+    // creating a div with LinkedIn GitHub Angel List and Twitter links
     <div className='flex justify-between pt-3 max-w-[200px] w-full' >
         <a target='_blank' href="https://www.linkedin.com/in/kevin-tapolcsanyi/" className=' md:scale-[80%] md:hover:scale-[100%] scale-[60%] hover:scale-[80%] ease-in duration-200 bg-2 bg-[#00df9a] rounded-full p-3 cursor-pointer'>
             <FaLinkedinIn size={20} className='me-auto'/>

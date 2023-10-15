@@ -3,7 +3,7 @@ import React from 'react'
 const MenuItem = ({id, imgUrl ,name ,bread , ingredients}) => {
   return (
 
-    // <div className={`${name} max-w-[450px] h-[450px] w-full m-auto py-16 px-4 group`} > 
+    // creating a template component for an item in the data.json 
     <div id={id} className='max-w-[450px] h-[450px] w-full mx-auto my-3 py-16 px-4 relative' >
         <img className='object-cover w-full h-full rounded-2xl bg-center bg-cover duration-500' src={imgUrl} alt="" />
         <div className='bg-white/90 rounded-lg my-1' >
