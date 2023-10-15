@@ -1,6 +1,7 @@
 import './App.css'
 import Menu from './components/Menu'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Navbar />
       <Menu />
+      <Footer />
     </div>
   )
 }

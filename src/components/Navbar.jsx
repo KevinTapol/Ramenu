@@ -25,7 +25,7 @@ const Navbar = () => {
     <div className={nav ? 'fixed left-0 top-0 w-[80%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500' : 'fixed left-[-100%]'} style={{ zIndex: 999 }}>
         <h1 className='w-full text-3xl font-bold text-[#00df9a] m-4'>Sandwich Menu</h1>
 
-        <div className='m-2 flex flex-col'>
+        <div className='m-4 flex flex-col'>
             {dataArray.map((item, index) => (
                 <a onClick={handleNav} className='flex-center text-[#00df9a] m-1' key={index} href={`#${item.id}`}>{item.name}</a>
             ))}
