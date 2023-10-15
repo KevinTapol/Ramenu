@@ -18,6 +18,4 @@
 - "imgUrl": "/imgs/special.jpg"
 - dataArray[index].imgUrl
 
-## Todo
-- get carousel working with multiple items using components
-- style component based on feedback maybe whiteboard
+### I used .map(() => (dataArray.key)) to render buttons href and id for items and decided to not do a carousel
