@@ -18,8 +18,8 @@ const Menu = () => {
             />
           ))}
         </div>
-        <a className='text-[#00df9a] flex justify-end ms-6' href="#navbar">
-          <VscArrowUp size={30} />
+        <a className='text-[#00df9a] flex justify-end ms-9' href="#navbar">
+          <VscArrowUp style={{ position: 'fixed', bottom: 9, right: 9, zIndex: 999,}} size={30} />
         </a>
     </div>
   )
