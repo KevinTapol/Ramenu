@@ -17,22 +17,22 @@
       "id": "ramsey_hot_chicken_sandwich",
       "imgUrl": "/imgs/special.jpg",
       "name": "Ramsey Hot Chicken Sandwich",
-      "bread": "Toasted Brioche Bun",
+      "bread": "🍔Toasted Brioche Bun",
       "ingredients": "🍗3 Fried Tenders in Nashville Spice | 🥬Lettuce | 🥒Pickles"
     },
     {
       "id": "philly",
       "imgUrl": "/imgs/special.jpg",
       "name": "Chicken Philly",
-      "bread": "Toasted Hoagie",
+      "bread": "🥖Toasted Hoagie",
       "ingredients": "🍗Grilled Chicken Tenders | 🧀Provolone | 🫑Peppers & 🧅Onions | 🧄Herb Garlic Aioli"
     },
     {
       "id": "ramsey_burger",
       "imgUrl": "/imgs/special.jpg",
       "name": "Ramsey Burger",
-      "bread": "Toasted Brioche Bun",
-      "ingredients": "🍔Double Burger | 🍾Street Sauce | 🧅Caramelized Onions | 🥓Bacon | 🧀Cheese"
+      "bread": "🍔Toasted Brioche Bun",
+      "ingredients": "🥩🥩Double Burger | 🍾Street Sauce | 🧅Caramelized Onions | 🥓Bacon | 🧀Cheese"
     },
     {
       "id": "gyro",
