@@ -38,14 +38,14 @@
       "id": "gyro",
       "imgUrl": "/imgs/special.jpg",
       "name": "Lamb Gyro",
-      "bread": "Toasted Pita",
+      "bread": "🫓Toasted Pita",
       "ingredients": "🥩Beef and 🐑Lamb | 🧅Onions | 🍅Tomato Relish | 🥬Lettuce | 🥒Tzatziki Sauce"
     },
     {
       "id": "southern_grilled_cheese",
       "imgUrl": "/imgs/special.jpg",
       "name": "Southern Grilled Cheese",
-      "bread": "Toasted Sourdough Bread Slice",
+      "bread": "🍞Toasted Sourdough Bread Slice",
       "ingredients": "🧀Mac & Cheese | 🥓Bacon Jam"
     },
     {
