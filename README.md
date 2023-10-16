@@ -1,5 +1,5 @@
 # Grill Menu at Corporate Chef's 
-(Click here for active website hosted on netlify)[https://ramseymenu.netlify.app/]
+[Click here for active website hosted on netlify](https://ramseymenu.netlify.app)
 
 - npm create vite@latest .
 - gut react stuff not used
