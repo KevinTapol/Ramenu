@@ -1,5 +1,6 @@
 # Grill Menu at Corporate Chef's 
-![Relative](./public/imgs/Ramenu.gif)  
+<!-- ![Relative](./public/imgs/Ramenu.gif)   -->
+<img src="./public/imgs/Ramenu.gif" width="100%" alt="#"/>
 [Click here for active website hosted on netlify](https://ramseymenu.netlify.app)
 
 - npm create vite@latest .
